@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/udhaym5401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhaym5401" height="30" width="40" /></a>
 <a href="https://kaggle.com/udhayms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udhayms" height="30" width="40" /></a>
-<a href="https://instagram.com/udhay__027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udhay__027" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/udhay_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udhay_m" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/udhaym002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="udhaym002" height="30" width="40" /></a>
 </p>
