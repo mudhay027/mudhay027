@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQHVwwANhww7Og/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1617571765164?e=1736380800&v=beta&t=UiK-o9zKeK9zaV7JL56TfPJVY8SewDQ-IjmAvc_3zH4)
+![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Udhay M</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
